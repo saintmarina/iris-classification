@@ -9,7 +9,6 @@ This repository includes:
 - **Supervised Learning Models** for classification
 - **Hyperparameter Tuning**
 - **Model Evaluation & Comparisons**
-- **GitHub version control and project structure**
 
 ## 📂 Dataset Information
 The dataset used is the **Iris dataset**, one of the most well-known classification datasets in machine learning. It consists of:
